@@ -1,0 +1,3 @@
+fastapi[stadard]==0.112.0
+Werkzeug==2.2.3
+uvicorn==0.23.2
